@@ -1,0 +1,11 @@
+# Node dependencies
+**/node_modules/
+**/dist/
+**/.env
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.DS_Store
